@@ -1,0 +1,4 @@
+The candidate demonstrated strong SQL knowledge and was able to explain joins clearly.
+Python fundamentals are solid, but there was some hesitation while answering statistics-related questions.
+Communication was decent, though confidence dropped slightly during problem-solving discussions.
+With focused revision in statistics and more mock interview practice, the candidate can perform well in client interviews.
