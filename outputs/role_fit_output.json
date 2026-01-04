@@ -1,0 +1,205 @@
+{
+    "Manthan Patel": {
+        "recommended_roles": [
+            "Junior Data Analyst",
+            "Data Analyst",
+            "Data Engineer"
+        ],
+        "role_match_scores": [
+            {
+                "role": "Junior Data Analyst",
+                "match_score": 1.0
+            },
+            {
+                "role": "Data Analyst",
+                "match_score": 1.0
+            },
+            {
+                "role": "Data Engineer",
+                "match_score": 1.0
+            },
+            {
+                "role": "Business Analyst",
+                "match_score": 0.8
+            },
+            {
+                "role": "Data Scientist",
+                "match_score": 0.6
+            },
+            {
+                "role": "ML Intern",
+                "match_score": 0.6
+            }
+        ],
+        "skill_gaps": {
+            "Business Analyst": [
+                "statistics"
+            ],
+            "Data Scientist": [
+                "python",
+                "statistics"
+            ],
+            "ML Intern": [
+                "python",
+                "statistics"
+            ]
+        }
+    },
+    "Krunal Jadhav": {
+        "recommended_roles": [
+            "Junior Data Analyst",
+            "Data Analyst",
+            "Data Engineer"
+        ],
+        "role_match_scores": [
+            {
+                "role": "Junior Data Analyst",
+                "match_score": 1.0
+            },
+            {
+                "role": "Data Analyst",
+                "match_score": 1.0
+            },
+            {
+                "role": "Data Engineer",
+                "match_score": 1.0
+            },
+            {
+                "role": "Business Analyst",
+                "match_score": 0.8
+            },
+            {
+                "role": "Data Scientist",
+                "match_score": 0.8
+            },
+            {
+                "role": "ML Intern",
+                "match_score": 0.8
+            }
+        ],
+        "skill_gaps": {
+            "Business Analyst": [
+                "excel"
+            ],
+            "Data Scientist": [
+                "statistics"
+            ],
+            "ML Intern": [
+                "statistics"
+            ]
+        }
+    },
+    "Virat Kohli": {
+        "recommended_roles": [
+            "Junior Data Analyst",
+            "Data Engineer"
+        ],
+        "role_match_scores": [
+            {
+                "role": "Junior Data Analyst",
+                "match_score": 1.0
+            },
+            {
+                "role": "Data Engineer",
+                "match_score": 0.6
+            },
+            {
+                "role": "Data Analyst",
+                "match_score": 0.4
+            },
+            {
+                "role": "Business Analyst",
+                "match_score": 0.4
+            },
+            {
+                "role": "Data Scientist",
+                "match_score": 0.4
+            },
+            {
+                "role": "ML Intern",
+                "match_score": 0.4
+            }
+        ],
+        "skill_gaps": {
+            "Data Analyst": [
+                "python",
+                "sql",
+                "statistics"
+            ],
+            "Business Analyst": [
+                "excel",
+                "statistics",
+                "communication"
+            ],
+            "Data Engineer": [
+                "python",
+                "statistics"
+            ],
+            "Data Scientist": [
+                "python",
+                "sql",
+                "statistics"
+            ],
+            "ML Intern": [
+                "python",
+                "sql",
+                "statistics"
+            ]
+        }
+    },
+    "Bhupendra": {
+        "recommended_roles": [
+            "Junior Data Analyst",
+            "Data Engineer",
+            "Data Scientist"
+        ],
+        "role_match_scores": [
+            {
+                "role": "Junior Data Analyst",
+                "match_score": 0.8
+            },
+            {
+                "role": "Data Engineer",
+                "match_score": 0.8
+            },
+            {
+                "role": "Data Scientist",
+                "match_score": 0.8
+            },
+            {
+                "role": "ML Intern",
+                "match_score": 0.8
+            },
+            {
+                "role": "Data Analyst",
+                "match_score": 0.6
+            },
+            {
+                "role": "Business Analyst",
+                "match_score": 0.6
+            }
+        ],
+        "skill_gaps": {
+            "Junior Data Analyst": [
+                "excel"
+            ],
+            "Data Analyst": [
+                "excel",
+                "statistics"
+            ],
+            "Business Analyst": [
+                "excel",
+                "statistics"
+            ],
+            "Data Engineer": [
+                "statistics"
+            ],
+            "Data Scientist": [
+                "statistics"
+            ],
+            "ML Intern": [
+                "statistics"
+            ]
+        }
+    }
+}

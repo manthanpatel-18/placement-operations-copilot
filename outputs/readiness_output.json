@@ -1,0 +1,45 @@
+{
+    "Manthan Patel": {
+        "readiness_status": "Almost Ready",
+        "average_score": 74.0,
+        "reasoning": [
+            "Good fundamentals but improvement needed in some areas",
+            "Statistics score is below recommended level"
+        ],
+        "improvement_suggestions": [
+            "Revise statistics fundamentals and practice problem-solving"
+        ]
+    },
+    "Krunal Jadhav": {
+        "readiness_status": "Ready",
+        "average_score": 77.6,
+        "reasoning": [
+            "Strong overall assessment performance"
+        ],
+        "improvement_suggestions": []
+    },
+    "Virat Kohli": {
+        "readiness_status": "Almost Ready",
+        "average_score": 67.0,
+        "reasoning": [
+            "Good fundamentals but improvement needed in some areas",
+            "Statistics score is below recommended level",
+            "Communication confidence can be improved"
+        ],
+        "improvement_suggestions": [
+            "Revise statistics fundamentals and practice problem-solving",
+            "Participate in mock interviews to build confidence"
+        ]
+    },
+    "Bhupendra": {
+        "readiness_status": "Ready",
+        "average_score": 78.0,
+        "reasoning": [
+            "Strong overall assessment performance",
+            "Statistics score is below recommended level"
+        ],
+        "improvement_suggestions": [
+            "Revise statistics fundamentals and practice problem-solving"
+        ]
+    }
+}

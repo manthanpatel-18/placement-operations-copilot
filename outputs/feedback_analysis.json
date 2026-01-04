@@ -1,0 +1,18 @@
+{
+    "strengths": [
+        "Strong conceptual understanding",
+        "Good SQL knowledge"
+    ],
+    "gaps": [
+        "Needs improvement in statistics",
+        "Communication confidence can be improved"
+    ],
+    "7_day_preparation_plan": {
+        "Day 1-2": "Revise statistics fundamentals",
+        "Day 3": "Practice SQL and Python problems",
+        "Day 4": "Mock interview focusing on weak areas",
+        "Day 5": "Feedback review and improvement",
+        "Day 6": "Full-length mock interview",
+        "Day 7": "Light revision and confidence building"
+    }
+}

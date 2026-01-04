@@ -1,0 +1,6 @@
+{
+    "Manthan Patel": "Candidate Readiness Status: Almost Ready\nRecommended Role(s): Junior Data Analyst, Data Analyst, Data Engineer\nFocus Areas Before Interview:\n- Needs improvement in statistics\n- Communication confidence can be improved\nSuggested interview scheduling: After 7 days of preparation",
+    "Krunal Jadhav": "Candidate Readiness Status: Ready\nRecommended Role(s): Junior Data Analyst, Data Analyst, Data Engineer\nFocus Areas Before Interview:\n- Needs improvement in statistics\n- Communication confidence can be improved\nSuggested interview scheduling: After 7 days of preparation",
+    "Virat Kohli": "Candidate Readiness Status: Almost Ready\nRecommended Role(s): Junior Data Analyst, Data Engineer\nFocus Areas Before Interview:\n- Needs improvement in statistics\n- Communication confidence can be improved\nSuggested interview scheduling: After 7 days of preparation",
+    "Bhupendra": "Candidate Readiness Status: Ready\nRecommended Role(s): Junior Data Analyst, Data Engineer, Data Scientist\nFocus Areas Before Interview:\n- Needs improvement in statistics\n- Communication confidence can be improved\nSuggested interview scheduling: After 7 days of preparation"
+}
